@@ -1,2 +1,0 @@
-forgejo.tar.gz filter=lfs diff=lfs merge=lfs -text
-forgejo.tar.gz filter=lfs diff=lfs merge=lfs -text
